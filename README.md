@@ -1,2 +1,1 @@
-# ML01
-Marks Prediction using Machine Learning
+This repo contains projects in Machine Learning
